@@ -1,6 +1,7 @@
-### Hello there 👋
+### Hello there.
 
-My name is Berk and I enjoy creating awesome things. I never stop learning. :)
+My name is Berk and I enjoy creating awesome things. 
 
-- 🌱 I’m currently learning Swift for iOS/iPadOS development. I am also experimenting with PHP/JS for WP plugin development.
-- ⚡️ Website & Blog: **[www.tekbyte.net](https://www.tekbyte.net)**
+- 🌱 I’m currently learning Swift and SwiftUI for iOS/iPadOS development. 
+- 📚 Computer engineering undegrad student at RMIT University
+- ⚡️ Website & Blog: **[www.tekbyte.net](https://www.tekbyte.net)** // **[www.onyabyte.com - alt site](https://www.onlyabyte.com)**
